@@ -1,4 +1,9 @@
 {
+  "name": "react-with-snowpack",
+  "version": "1.0.0",
+  "main": "src/index.jsx",
+  "author": "maskeynihal <maskeynihal@gmail.com>",
+  "license": "MIT",
   "scripts": {
     "start": "snowpack dev",
     "build": "snowpack build",
