@@ -11,3 +11,9 @@ ReactDOM.render(
   </React.StrictMode>,
   root
 );
+
+// Hot Module Replacement (HMR)
+if (undefined /*[snowpack] import.met.hot */) {
+  undefined /*[snowpack] import.meta.hot */
+    .accept();
+}
