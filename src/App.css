@@ -14,3 +14,9 @@ body {
   justify-content: center;
   align-items: center;
 }
+
+.app-version {
+  position: fixed;
+  right: 1rem;
+  font-size: 12px;
+}
